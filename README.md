@@ -100,17 +100,11 @@ As a start while performing data analysis, I derived the following questions fro
 
 From the above analysis, below are our recommendations:
 
-* Both City Hotels and Resort Hotels should come up with new marketing strategies or improve on already existing ones to cleary advertise on their presence, communicate on the services they offer, deals if any in order to improve on the number of bookings.
+* Since most of the delays were caused by Late return from Field Trips, it is recommended that the buses be rotated out to prevent breakdown i.e the buses going out for field trips should be on rotational basis.
 
-* We can see that bookings have increased over the years and inorder to maintain this trend, the hotels can offer special deals/ rates especially during off-peak periods. This will attract more customers and in turn increase the number of bookings hnce and increase in revenue.
+* Heavy traffic is the most frequent reason for running late and hence either the roads be expanded to ease traffic or the number of vehicles plying that route should be regulated. Alternative routes may also be considered.
 
-* August is one of the busiest months for the Hotel industry. As mentioned earlier the hotels can opt to introduce incentives for any making abooking during the less busier months like January that has a Booking Rate of less than 5%
-
-* To increase on the number of guests coming from different countries, the hotel management may opt to introduce referral programs where a previous guest may get discount rates on their next booking if they reffered someone else who then indeed made a booking.
-
-* To increase on the total number of nights spent at a hotel, management may also opt to add an extra free night for guests who book for 4 or more nights as a perk.
-
-* As noted most bookings are made by couples. The hotel may introduce more family friendly services and activities e.g a playground for children may increase the bookings made by a family.
+* An investigation into LITTLE RICHIE BUS SERVICE which is the bus company with the most breakdowns should be launched to understand the reason.
 
 [Back To The Top](#Hilton-International-Hotels-Booking-Visualisations)
 
