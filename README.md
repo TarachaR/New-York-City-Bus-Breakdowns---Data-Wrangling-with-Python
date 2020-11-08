@@ -87,19 +87,10 @@ As a start while performing data analysis, I derived the following questions fro
 
 ## Summary Of Findings
 
-Below are some of the findings derived from the dataset and visually represented:
-
-#### Lineplot showing Monthly Booking Trend by City Hotel and Resort Hotel
-![monthly_booking_trend_city_resort_line_graph](https://user-images.githubusercontent.com/67068918/93030105-36b2c900-f629-11ea-94a5-35ad4d4d6136.png)
-
-#### Lineplot showing Monthly Booking Trend
-![monthly_booking_trend_line_graph](https://user-images.githubusercontent.com/67068918/93030138-77124700-f629-11ea-9d38-09ab47470f9c.png)
-
-#### Bar and Pie Charts showing the percentage number of bookings cancelled 
-![percentage_bookings_cancelled](https://user-images.githubusercontent.com/67068918/93030157-9a3cf680-f629-11ea-97ce-2d7dba443d81.png)
-
-#### Bar Chart Showing the Percentage Booking Per Year By Hotel(City/Resort)
-![percentage_booking_per_year_by_hotel](https://user-images.githubusercontent.com/67068918/93030324-cdcc5080-f62a-11ea-95c5-ef852e6f1d55.png)
+- From my analysis, most of the delays were caused by late returns from field trips
+- Heavy traffic and mechanical problems are the most frequent reasons for bus delays.
+- G.V.C., LTD, LEESEL TRANSPORTATION CORP (B2192) and PIONEER TRANSPORTATION CO	are the bus companies with the highest number of breakdowns.
+- There were a total number of 58329 students on the bus when it broke down and a total number of 890829 on the bus when it was running late.
 
 [Back To The Top](#Hilton-International-Hotels-Booking-Visualisations)
 
