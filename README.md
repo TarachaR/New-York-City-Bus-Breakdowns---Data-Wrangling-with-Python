@@ -41,7 +41,7 @@ Given a dataset, I performed data exploration and data wrangling (data cleaning 
 #### Technologies and Tools
 
 - Pandas
-- Namupy
+- Numpy
 
 [Back To The Top](#Hilton-International-Hotels-Booking-Visualisations)
 
