@@ -58,7 +58,7 @@ The dataset that was provided comes from the Bus Breakdown and Delay system whic
 * Dataset name: hotel_bookings.csv
 * Dataset Download Link: https://bit.ly/BusBreakdownDataset
 
-[Back To The Top](#Hilton-International-Hotels-Booking-Visualisations)
+[Back To The Top](#New-York-City-Bus-Breakdowns---Data-Wrangling-with-Python)
 
 ---
 
@@ -81,7 +81,7 @@ As a start while performing data analysis, I derived the following questions fro
 6. What was the average delay time of each reason type?
 
 
-[Back To The Top](#Hilton-International-Hotels-Booking-Visualisations)
+[Back To The Top](#New-York-City-Bus-Breakdowns---Data-Wrangling-with-Python)
 
 ---
 
@@ -92,7 +92,7 @@ As a start while performing data analysis, I derived the following questions fro
 - G.V.C., LTD, LEESEL TRANSPORTATION CORP (B2192) and PIONEER TRANSPORTATION CO	are the bus companies with the highest number of breakdowns.
 - There were a total number of 58329 students on the bus when it broke down and a total number of 890829 on the bus when it was running late.
 
-[Back To The Top](#Hilton-International-Hotels-Booking-Visualisations)
+[Back To The Top](#New-York-City-Bus-Breakdowns---Data-Wrangling-with-Python)
 
 ---
 
@@ -106,7 +106,7 @@ From the above analysis, below are our recommendations:
 
 * An investigation into LITTLE RICHIE BUS SERVICE which is the bus company with the most breakdowns should be launched to understand the reason.
 
-[Back To The Top](#Hilton-International-Hotels-Booking-Visualisations)
+[Back To The Top](#New-York-City-Bus-Breakdowns---Data-Wrangling-with-Python)
 
 ---
 
@@ -115,6 +115,6 @@ From the above analysis, below are our recommendations:
 - Twitter - https://twitter.com/Vycellous_Drum
 - Website - https://richardtaracha.glitch.me/
 
-[Back To The Top](#Hilton-International-Hotels-Booking-Visualisations)
+[Back To The Top](#New-York-City-Bus-Breakdowns---Data-Wrangling-with-Python)
 
 
