@@ -34,16 +34,14 @@ The data is provided to the NYC open data by Department of Education (DOE) and c
 
 ## Understanding The Context
 
-With this project, I'm a Data Analyst working for Hilton International Hotels, and have been tasked to help the management decide on the best strategies that will lead to revenue growth.
+With this project, I'm working as a Data Science Consultant and has been tasked to provide recommendations on how to reduce the cases of breakdown of buses in the city of New York. 
 
-I have been provided with a dataset containing information on the various chain of hotels, which more on, includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things.
+Given a dataset, I performed data exploration and data wrangling (data cleaning and analysis) then came up with some appropriate recommendations. 
 
-Given this dataset, I performed data exploration, data cleaning and analysis and came up with some appropriate recommendations. 
+#### Technologies and Tools
 
-#### Technologies
-
-- Python Programming Language
-- Google Colab Notebook
+- Pandas
+- Namupy
 
 [Back To The Top](#Hilton-International-Hotels-Booking-Visualisations)
 
@@ -55,7 +53,7 @@ Deliverable is a python notebook that contains my solution:
 * Notebook name: Hilton International Hotels Booking Visualisations.ipynb
 
 Dataset Overview:
-This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things.
+The dataset that was provided comes from the Bus Breakdown and Delay system which collects information from school bus vendors operating out in the field in real time. Bus staff that encounter delays during the route are instructed to radio the dispatcher at the bus vendor’s central office. The bus vendor staff are then instructed to log into the Bus Breakdown and Delay system to record the event and notify OPT. OPT customer service agents use this system to inform parents who call with questions regarding bus service. The Bus Breakdown and Delay system is publicly accessible and contains real time updates. All information in the system is entered by school bus vendor staff.
 
 * Dataset name: hotel_bookings.csv
 * Dataset Download Link: https://bit.ly/2WvQbhJ
@@ -70,18 +68,18 @@ This data set contains booking information for a city hotel and a resort hotel, 
 3. Data Exploration
 4. Data Cleaning
 5. Data Preparation
-6. Data Analysis (Univariate and Bivariate)
+6. Data Analysis
 
-Given the dataset, I performed data exploration, data cleaning and analysis in an effort to come with appropriate recommendations. 
+Given the dataset, I performed data exploration, data wrangling (cleaning and analysis) in an effort to come with appropriate recommendations. 
 
 As a start while performing data analysis, I derived the following questions from the given dataset: 
-1. How many bookings were cancelled?
-2. What was the booking ratio between resort hotel and city hotel?
-3. What was the percentage of booking for each year?
-4. Which was the most busy month for hotel?
-5. Most guests came from which country?
-6. How long do most people stay in hotels?
-7. Which was the most booked accommodation type (Single, Couple, Family)?
+1. Which bus companies that had the highest breakdowns?
+2. What were the top 3 reasons for bus delays?
+3. How many students were in the buses when they broke down?
+4. Which were most frequent reasons for bus breakdowns?
+5. What were the most frequent reasons for the bus running late?
+6. What was the average delay time of each reason type?
+
 
 [Back To The Top](#Hilton-International-Hotels-Booking-Visualisations)
 
