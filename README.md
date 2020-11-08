@@ -4,7 +4,7 @@
 > Author: Richard Taracha
 > Date: 13/09/2020
 
-![hilton](https://user-images.githubusercontent.com/67068918/93068181-cfc2fd80-f684-11ea-9e2b-2772241594ca.jpg)
+![NYC Home Page Image](https://user-images.githubusercontent.com/67068918/98472046-59182b80-2201-11eb-940d-b18f930166e8.png)
 
 ---
 
